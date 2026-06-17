@@ -10,12 +10,7 @@ global_conferences:
   - kubecon
   - cloudnativecon
   - gitopscon
-  - ciliumcon
-  - backstagecon
   - argocon
-
-  # CD Foundation (Tekton's home)
-  - cdcon
 
   # DevOps / Platform
   - devopsdays
@@ -24,16 +19,12 @@ global_conferences:
 
   # Linux Foundation
   - open source summit
-  - linux plumbers
-  - embedded linux conference
-  - open networking
   - linux security summit
   - openssf
   - supplychain security con
 
 topics:
   - ci/cd
-  - continuous integration
   - continuous delivery
   - devops
   - platform engineering
@@ -41,4 +32,8 @@ topics:
   - kubernetes
   - containers
   - gitops
-  - tekton
+  - provenance
+  - policy
+  - slsa
+  - static application security testing
+  - trust
