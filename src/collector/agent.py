@@ -136,11 +136,6 @@ def calculate_topic_relevance(event: Event) -> float:
     if event.cfp_deadline and event.cfp_deadline >= date.today():
         score += 0.15
 
-    # Tekton/CI-CD specific bonus
-    name_lower = event.name.lower()
-    if any(kw in name_lower for kw in ["tekton", "ci/cd", "cicd", "pipeline"]):
-        score += 0.1
-
     return min(1.0, score)
 
 

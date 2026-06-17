@@ -1,7 +1,7 @@
 [project]
 name = "cfp-radar"
 version = "0.1.0"
-description = "AI-powered tech events and CFP tracker for CI/CD, DevOps, and Cloud Native communities"
+description = "AI-powered tech events and CFP tracker for the TSD organization"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

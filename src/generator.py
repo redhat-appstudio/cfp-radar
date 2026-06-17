@@ -76,8 +76,8 @@ def generate_html(events: list[Event], output_file: str) -> None:
         f.write(html)
 
     # Copy optimized logo to output directory
-    logo_src = os.path.join("data", "logo.webp")
+    logo_src = os.path.join("data", "logo.png")
     if os.path.exists(logo_src):
-        logo_dst = os.path.join(output_dir, "logo.webp")
+        logo_dst = os.path.join(output_dir, "logo.png")
         if not os.path.exists(logo_dst):
             shutil.copy2(logo_src, logo_dst)

@@ -113,19 +113,7 @@ def load_topics(config_file: str | None = None) -> list[str]:
             data = yaml.safe_load(f)
             result: list[str] = data.get("topics", [])
             return result
-    # Fallback defaults if config not found
-    return [
-        "ci/cd",
-        "continuous integration",
-        "continuous delivery",
-        "devops",
-        "platform engineering",
-        "cloud native",
-        "kubernetes",
-        "containers",
-        "gitops",
-        "tekton",
-    ]
+    raise ValueError(f"config file not found: {path}")
 
 
 TARGET_REGIONS = load_regions()
