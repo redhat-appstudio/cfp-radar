@@ -1,0 +1,885 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CFP Radar//cfp-radar//EN
+X-WR-CALNAME:CFP Radar
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] DevConf.cz 2026
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+UID:ecba2306cc26-cfp@cfp-radar
+DESCRIPTION:An annual free open-source community conference sponsored by R
+ ed Hat. It covers a wide range of topics including cloud infrastructure\, 
+ Kubernetes\, DevOps\, CI/CD pipelines\, and platform engineering at scale.
+ \nWebsite: https://www.devconf.info/cz/\nCFP: https://www.devconf.info/cz/
+ \nTopics: devops\, ci/cd\, kubernetes\, cloud native\, platform engineerin
+ g\, automation\, containers
+LOCATION:Brno\, Czech Republic
+TRANSP:TRANSPARENT
+URL:https://www.devconf.info/cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevConf.cz 2026
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260620
+UID:ecba2306cc26-event@cfp-radar
+DESCRIPTION:An annual free open-source community conference sponsored by R
+ ed Hat. It covers a wide range of topics including cloud infrastructure\, 
+ Kubernetes\, DevOps\, CI/CD pipelines\, and platform engineering at scale.
+ \nWebsite: https://www.devconf.info/cz/\nCFP: https://www.devconf.info/cz/
+ \nTopics: devops\, ci/cd\, kubernetes\, cloud native\, platform engineerin
+ g\, automation\, containers
+LOCATION:Brno\, Czech Republic
+TRANSP:OPAQUE
+URL:https://www.devconf.info/cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source India 2026
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:33285bbfafee-event@cfp-radar
+DESCRIPTION:India's premier open-source event featuring workshops and sess
+ ions on cloud native infrastructure and platform services.\nWebsite: https
+ ://opensourceindia.in/\nCFP: https://opensourceindia.in/\nTopics: Open Sou
+ rce\, Platform Engineering\, Cloud Native\, Infrastructure as Code
+LOCATION:Bangalore\, India
+TRANSP:OPAQUE
+URL:https://opensourceindia.in/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GopherCon Israel 2026
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+UID:b4b70eafd588-event@cfp-radar
+DESCRIPTION:The local edition of the global Golang conference\, highly rel
+ evant to developers building cloud-native systems and Kubernetes operators
+  with Go.\nWebsite: https://dev.events/conferences/gophercon-israel-2026-t
+ el-aviv\nTopics: golang\, cloud native\, kubernetes\, backend engineering
+LOCATION:Tel Aviv\, Israel
+TRANSP:OPAQUE
+URL:https://dev.events/conferences/gophercon-israel-2026-tel-aviv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Things Open 2026
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261021
+UID:45161a79b785-event@cfp-radar
+DESCRIPTION:One of the largest open source and open tech conferences on th
+ e U.S. East Coast\, featuring dedicated tracks for DevOps and Cloud Native
+  technologies.\nWebsite: https://allthingsopen.org/\nCFP: https://allthing
+ sopen.org/call-for-papers/\nTopics: open source\, devops\, cloud native\, 
+ ci/cd\, ai
+LOCATION:Raleigh\, USA
+TRANSP:OPAQUE
+URL:https://allthingsopen.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud & AI Infrastructure Paris 2026
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:ea03aa44034c-event@cfp-radar
+DESCRIPTION:Formerly Cloud Expo Europe Paris\, this event brings together 
+ IT decision-makers and architects to discuss the evolution of cloud infras
+ tructure\, hybrid strategies\, and DevOps tools.\nWebsite: https://www.tec
+ hshowparis.fr/cloud-ai-infrastructure-paris\nTopics: Cloud Infrastructure\
+ , DevOps\, CI/CD\, Data Centers\, FinOps
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://www.techshowparis.fr/cloud-ai-infrastructure-paris
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengaluru Tech Summit 2026
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:db3c43a722b2-event@cfp-radar
+DESCRIPTION:A massive annual summit covering a broad range of technologies
+ \, including significant sessions on cloud-driven operations and DevOps.\n
+ Website: https://bengalurutechsummit.com/\nTopics: Innovation\, Cloud\, De
+ vOps\, Enterprise Tech
+LOCATION:Bangalore\, India
+TRANSP:OPAQUE
+URL:https://bengalurutechsummit.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:apidays Paris 2026
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
+UID:bf44a8d9e027-event@cfp-radar
+DESCRIPTION:A major event focused on API ecosystems\, featuring sessions o
+ n platform engineering\, developer experience (DevEx)\, and automated deli
+ very.\nWebsite: https://www.apidays.global/paris/\nCFP: https://www.apiday
+ s.global/paris/\nTopics: APIs\, Platform Engineering\, Automation\, Archit
+ ecture
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://www.apidays.global/paris/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps REX 2026
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+UID:28a33c17deab-event@cfp-radar
+DESCRIPTION:The 'experience feedback' conference for the DevOps community.
+  Co-located with Open Source Experience\, it focuses on real-world impleme
+ ntations\, failures\, and successes.\nWebsite: https://www.devopsrex.fr\nT
+ opics: DevOps\, CI/CD\, SRE\, Continuous Delivery\, Feedback
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://www.devopsrex.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Experience 2026
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+UID:049edb9fec9e-event@cfp-radar
+DESCRIPTION:Europe's meeting place for the open source ecosystem\, highlig
+ hting innovative solutions in cloud computing\, containers\, and automated
+  infrastructure.\nWebsite: https://www.opensource-experience.com/\nTopics:
+  Open Source\, Cloud\, Kubernetes\, Cybersecurity\, DevOps
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://www.opensource-experience.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cybertech Global TLV 2027
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+UID:f5939a405b4e-event@cfp-radar
+DESCRIPTION:A massive international cybersecurity event that includes sign
+ ificant tracks and networking opportunities for cloud security and DevOps 
+ professionals.\nWebsite: https://www.cybertechisrael.com/\nTopics: cyberse
+ curity\, cloud security\, innovation
+LOCATION:Tel Aviv\, Israel
+TRANSP:OPAQUE
+URL:https://www.cybertechisrael.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AWS Summit Paris 2027
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+UID:b7482aa1a980-event@cfp-radar
+DESCRIPTION:Projected return of the AWS flagship event in Paris\, expected
+  to focus on serverless evolution\, DevOps automation\, and AI-driven plat
+ forms.\nWebsite: https://aws.amazon.com/summits/paris/\nTopics: Cloud Comp
+ uting\, DevOps\, Platform Engineering\, AWS
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://aws.amazon.com/summits/paris/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] DevOpsDays Graz
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+UID:64d5e83ed8c7-cfp@cfp-radar
+DESCRIPTION:Website: https://www.devopsdays.at\nCFP: https://pretalx.com/d
+ evopsdays-graz-2026/cfp\nTopics: devops
+LOCATION:Graz\, Austria
+TRANSP:TRANSPARENT
+URL:https://pretalx.com/devopsdays-graz-2026/cfp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOpsDays Graz
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260906
+UID:64d5e83ed8c7-event@cfp-radar
+DESCRIPTION:Website: https://www.devopsdays.at\nCFP: https://pretalx.com/d
+ evopsdays-graz-2026/cfp\nTopics: devops
+LOCATION:Graz\, Austria
+TRANSP:OPAQUE
+URL:https://www.devopsdays.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devopsdays Berlin
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261001
+UID:69d8cffe0cf3-event@cfp-radar
+DESCRIPTION:Website: https://devopsdays.org/events/2026-berlin/welcome\nTo
+ pics: devops
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://devopsdays.org/events/2026-berlin/welcome
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon North America
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+UID:b0e005cf3f3b-event@cfp-radar
+DESCRIPTION:Website: https://events.linuxfoundation.org/kubecon-cloudnativ
+ econ-north-america-2026\nTopics: devops
+LOCATION:Los Angeles\, CA\, USA
+TRANSP:OPAQUE
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-americ
+ a-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] IT-Tage
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+UID:f58d484e1a4d-cfp@cfp-radar
+DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
+ rmatik-aktuell.de/index.html\nTopics: devops
+LOCATION:Frankfurt am Main\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.ittage.informatik-aktuell.de/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Tage
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+UID:f58d484e1a4d-event@cfp-radar
+DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
+ rmatik-aktuell.de/index.html\nTopics: devops
+LOCATION:Frankfurt am Main\, Germany
+TRANSP:OPAQUE
+URL:https://www.it-tage.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAD Summit
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+UID:f22c21c6c2af-event@cfp-radar
+DESCRIPTION:Website: https://mad-summit.de/muenchen
+LOCATION:Munich\, Germany
+TRANSP:OPAQUE
+URL:https://mad-summit.de/muenchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PlatformCON Virtual
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+UID:4483055f70e7-event@cfp-radar
+DESCRIPTION:Website: https://platformcon.com/program
+LOCATION:\, 
+TRANSP:OPAQUE
+URL:https://platformcon.com/program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PlatformCON Live Day London
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+UID:cf57378cd9a5-event@cfp-radar
+DESCRIPTION:Website: https://platformcon.com/live-day-london
+LOCATION:London\, U.K.
+TRANSP:OPAQUE
+URL:https://platformcon.com/live-day-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] OWASP Global AppSec EU
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+UID:c05f76e3f89c-cfp@cfp-radar
+DESCRIPTION:Website: https://owasp.glueup.com/event/owasp-global-appsec-eu
+ -2026-vienna-austria-162243\nCFP: https://sessionize.com/owasp-global-apps
+ ec-eu-2026-cfp-wash
+LOCATION:Vienna\, Austria
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OWASP Global AppSec EU
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260627
+UID:c05f76e3f89c-event@cfp-radar
+DESCRIPTION:Website: https://owasp.glueup.com/event/owasp-global-appsec-eu
+ -2026-vienna-austria-162243\nCFP: https://sessionize.com/owasp-global-apps
+ ec-eu-2026-cfp-wash
+LOCATION:Vienna\, Austria
+TRANSP:OPAQUE
+URL:https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-aust
+ ria-162243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PlatformCON Live day NYC
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+UID:97e6dd5ee3f2-event@cfp-radar
+DESCRIPTION:Website: https://platformcon.com/live-day-nyc
+LOCATION:New York\, NY\, USA
+TRANSP:OPAQUE
+URL:https://platformcon.com/live-day-nyc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The European Power Platform Conference
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260703
+UID:b782f7b24b1a-event@cfp-radar
+DESCRIPTION:Website: https://www.sharepointeurope.com/european-power-platf
+ orm-conference
+LOCATION:Copenhagen\, Denmark
+TRANSP:OPAQUE
+URL:https://www.sharepointeurope.com/european-power-platform-conference
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UberConf
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260718
+UID:64fef63afcf2-event@cfp-radar
+DESCRIPTION:Website: https://uberconf.com
+LOCATION:Denver\, CO\, USA
+TRANSP:OPAQUE
+URL:https://uberconf.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LDX3 New York
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+UID:a093a2dc303a-event@cfp-radar
+DESCRIPTION:Website: https://leaddev.com/leaddev-new-york
+LOCATION:New York\, NY\, USA
+TRANSP:OPAQUE
+URL:https://leaddev.com/leaddev-new-york
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Nordic APIs UnConference
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:a7cde28af082-event@cfp-radar
+DESCRIPTION:Website: https://nordicapis.com/events/napis-unconference-2026
+LOCATION:Stockholm\, Sweden
+TRANSP:OPAQUE
+URL:https://nordicapis.com/events/napis-unconference-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platform Summit
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+UID:46e177edafc1-event@cfp-radar
+DESCRIPTION:Website: https://nordicapis.com/events/platform-summit-2026
+LOCATION:Stockholm\, Sweden
+TRANSP:OPAQUE
+URL:https://nordicapis.com/events/platform-summit-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] AMTSO Cyber Research Conference
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+UID:b333503b0f54-cfp@cfp-radar
+DESCRIPTION:Website: https://www.amtso.org/special-events/amtso-cyber-rese
+ arch-conference-2026\nCFP: https://sessionize.com/amtso-cyber-research-con
+ ference-2026
+LOCATION:Brussels\, Belgium
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/amtso-cyber-research-conference-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMTSO Cyber Research Conference
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+UID:b333503b0f54-event@cfp-radar
+DESCRIPTION:Website: https://www.amtso.org/special-events/amtso-cyber-rese
+ arch-conference-2026\nCFP: https://sessionize.com/amtso-cyber-research-con
+ ference-2026
+LOCATION:Brussels\, Belgium
+TRANSP:OPAQUE
+URL:https://www.amtso.org/special-events/amtso-cyber-research-conference-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] AutomationSTAR Conference
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+UID:630f067c61dc-cfp@cfp-radar
+DESCRIPTION:Website: https://automation.eurostarsoftwaretesting.com/ticket
+ s\nCFP: https://automation.eurostarsoftwaretesting.com/call-for-speakers
+LOCATION:Antwerp\, Belgium
+TRANSP:TRANSPARENT
+URL:https://automation.eurostarsoftwaretesting.com/call-for-speakers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AutomationSTAR Conference
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+UID:630f067c61dc-event@cfp-radar
+DESCRIPTION:Website: https://automation.eurostarsoftwaretesting.com/ticket
+ s\nCFP: https://automation.eurostarsoftwaretesting.com/call-for-speakers
+LOCATION:Antwerp\, Belgium
+TRANSP:OPAQUE
+URL:https://automation.eurostarsoftwaretesting.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LeadDev Berlin
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+UID:c9df3419a2ac-event@cfp-radar
+DESCRIPTION:Website: https://leaddev.com/leaddev-berlin
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://leaddev.com/leaddev-berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Tokyo Test Fest
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+UID:1511cedbd0a2-cfp@cfp-radar
+DESCRIPTION:Website: https://tokyotestfest.com\nCFP: https://tokyotestfest
+ .com/en/cfp_2026/
+LOCATION:Tokyo\, Japan
+TRANSP:TRANSPARENT
+URL:https://tokyotestfest.com/en/cfp_2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Test Fest
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+UID:1511cedbd0a2-event@cfp-radar
+DESCRIPTION:Website: https://tokyotestfest.com\nCFP: https://tokyotestfest
+ .com/en/cfp_2026/
+LOCATION:Tokyo\, Japan
+TRANSP:OPAQUE
+URL:https://tokyotestfest.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Open Source Monitoring conference
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+UID:15917e2001ff-cfp@cfp-radar
+DESCRIPTION:Website: https://osmc.de\nCFP: https://osmc.de/call-for-papers
+LOCATION:Nürnberg\, Germany
+TRANSP:TRANSPARENT
+URL:https://osmc.de/call-for-papers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Monitoring conference
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+UID:15917e2001ff-event@cfp-radar
+DESCRIPTION:Website: https://osmc.de\nCFP: https://osmc.de/call-for-papers
+LOCATION:Nürnberg\, Germany
+TRANSP:OPAQUE
+URL:https://osmc.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESPC
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
+UID:a9f2dff9fe4b-event@cfp-radar
+DESCRIPTION:Website: https://www.sharepointeurope.com
+LOCATION:Amsterdam\, Netherlands
+TRANSP:OPAQUE
+URL:https://www.sharepointeurope.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APIConf
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261203
+UID:57483420ce3a-event@cfp-radar
+DESCRIPTION:Website: https://apiconf.io
+LOCATION:Clear Water\, FL\, USA
+TRANSP:OPAQUE
+URL:https://apiconf.io
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversations Roadshow: Berlin by CTO Craft
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+UID:630d0cdf9012-event@cfp-radar
+DESCRIPTION:Website: https://conversations.ctocraft.com/berlin
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://conversations.ctocraft.com/berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Swiss PGDay
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+UID:31c7d7d0ba5c-cfp@cfp-radar
+DESCRIPTION:Website: https://2026.pgday.ch\nCFP: https://2026.pgday.ch/cal
+ l-for-papers
+LOCATION:Rapperswil-Jona\, Switzerland
+TRANSP:TRANSPARENT
+URL:https://2026.pgday.ch/call-for-papers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swiss PGDay
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260627
+UID:31c7d7d0ba5c-event@cfp-radar
+DESCRIPTION:Website: https://2026.pgday.ch\nCFP: https://2026.pgday.ch/cal
+ l-for-papers
+LOCATION:Rapperswil-Jona\, Switzerland
+TRANSP:OPAQUE
+URL:https://2026.pgday.ch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Asynconf
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+UID:e9d2431c2bb8-cfp@cfp-radar
+DESCRIPTION:Website: https://asynconf.com\nCFP: https://cfp.asynconf.com\n
+ Topics: devops
+LOCATION:Paris\, France
+TRANSP:TRANSPARENT
+URL:https://cfp.asynconf.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asynconf
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+UID:e9d2431c2bb8-event@cfp-radar
+DESCRIPTION:Website: https://asynconf.com\nCFP: https://cfp.asynconf.com\n
+ Topics: devops
+LOCATION:Paris\, France
+TRANSP:OPAQUE
+URL:https://asynconf.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] AlmaLinux Day
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+UID:04fd6ba1d1b1-cfp@cfp-radar
+DESCRIPTION:Website: https://almalinux.org/almalinux-day-los-angeles-2026\
+ nCFP: https://sessionize.com/almalinux-day-los-angeles
+LOCATION:Los Angeles\, CA\, USA
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/almalinux-day-los-angeles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AlmaLinux Day
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+UID:04fd6ba1d1b1-event@cfp-radar
+DESCRIPTION:Website: https://almalinux.org/almalinux-day-los-angeles-2026\
+ nCFP: https://sessionize.com/almalinux-day-los-angeles
+LOCATION:Los Angeles\, CA\, USA
+TRANSP:OPAQUE
+URL:https://almalinux.org/almalinux-day-los-angeles-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Conference on  Smart Systems : Big Data\, IoT\, Cybersecurit
+ y\, and IT in Action
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260920
+UID:c9a2f9db2ca9-event@cfp-radar
+DESCRIPTION:Website: https://www.smartsystems.thesciencequest.org
+LOCATION:Tokyo\, Japan
+TRANSP:OPAQUE
+URL:https://www.smartsystems.thesciencequest.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:entwickler Summit
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+UID:a285a70dcafc-event@cfp-radar
+DESCRIPTION:Website: https://entwickler.de/entwickler-summit
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://entwickler.de/entwickler-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STARWEST
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260926
+UID:4e3cdde59a4d-event@cfp-radar
+DESCRIPTION:Website: https://starwest.techwell.com\nTopics: devops
+LOCATION:Anaheim\, CA\, USA
+TRANSP:OPAQUE
+URL:https://starwest.techwell.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future Coding Day
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+UID:da830dbef92e-event@cfp-radar
+DESCRIPTION:Website: https://www.futurecodingday.com\nTopics: devops
+LOCATION:Copenhagen\, Denmark
+TRANSP:OPAQUE
+URL:https://www.futurecodingday.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] heise devSec
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+UID:e8c4a471196d-cfp@cfp-radar
+DESCRIPTION:Website: https://heise-devsec.de/cfp.php\nCFP: https://heise-d
+ evsec.de/code_of_conduct.php
+LOCATION:Marburg\, Germany
+TRANSP:TRANSPARENT
+URL:https://heise-devsec.de/code_of_conduct.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:heise devSec
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260924
+UID:e8c4a471196d-event@cfp-radar
+DESCRIPTION:Website: https://heise-devsec.de/cfp.php\nCFP: https://heise-d
+ evsec.de/code_of_conduct.php
+LOCATION:Marburg\, Germany
+TRANSP:OPAQUE
+URL:https://heise-devsec.de/cfp.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:API Conference NYC
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261003
+UID:8a811fbd141d-event@cfp-radar
+DESCRIPTION:Website: https://apiconference.net/new-york\nTopics: devops
+LOCATION:New York\, NY\, USA
+TRANSP:OPAQUE
+URL:https://apiconference.net/new-york
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DecOpsCon NYC
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261003
+UID:1dcde6eff3ab-event@cfp-radar
+DESCRIPTION:Website: https://devopscon.io/new-york\nTopics: devops
+LOCATION:New York\, NY\, USA
+TRANSP:OPAQUE
+URL:https://devopscon.io/new-york
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] TechSummit Amsterdam
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+UID:dd9b37eaf9b9-cfp@cfp-radar
+DESCRIPTION:Website: https://techsummit.io\nCFP: https://pretalx.com/techs
+ ummit-2026/cfp\nTopics: devops
+LOCATION:Amsterdam\, Netherlands
+TRANSP:TRANSPARENT
+URL:https://pretalx.com/techsummit-2026/cfp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TechSummit Amsterdam
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+UID:dd9b37eaf9b9-event@cfp-radar
+DESCRIPTION:Website: https://techsummit.io\nCFP: https://pretalx.com/techs
+ ummit-2026/cfp\nTopics: devops
+LOCATION:Amsterdam\, Netherlands
+TRANSP:OPAQUE
+URL:https://techsummit.io
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Open Tech Day: Software-defined Storage
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+UID:1cb97d5b9315-cfp@cfp-radar
+DESCRIPTION:Website: https://opentechday.de\nCFP: https://opentechday.de/p
+ ropose
+LOCATION:Nürnberg\, Germany
+TRANSP:TRANSPARENT
+URL:https://opentechday.de/propose
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Tech Day: Software-defined Storage
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:1cb97d5b9315-event@cfp-radar
+DESCRIPTION:Website: https://opentechday.de\nCFP: https://opentechday.de/p
+ ropose
+LOCATION:Nürnberg\, Germany
+TRANSP:OPAQUE
+URL:https://opentechday.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software Architecture Summit
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+UID:0dd2456f37d6-event@cfp-radar
+DESCRIPTION:Website: https://software-architecture-summit.de/berlin
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://software-architecture-summit.de/berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joomla! World Conference
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+UID:8c33bdba9ee5-event@cfp-radar
+DESCRIPTION:Website: https://conference.joomla.org
+LOCATION:Potsdam\, Germany
+TRANSP:OPAQUE
+URL:https://conference.joomla.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] swampUP Europe
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+UID:eb60652d6413-cfp@cfp-radar
+DESCRIPTION:Website: https://swampup.jfrog.com/europe\nCFP: https://sessio
+ nize.com/swampup-europe-2026\nTopics: devops
+LOCATION:Barcelona\, Spain
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/swampup-europe-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:swampUP Europe
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:eb60652d6413-event@cfp-radar
+DESCRIPTION:Website: https://swampup.jfrog.com/europe\nCFP: https://sessio
+ nize.com/swampup-europe-2026\nTopics: devops
+LOCATION:Barcelona\, Spain
+TRANSP:OPAQUE
+URL:https://swampup.jfrog.com/europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Umbracokalaset
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+UID:a4d3dc7e3c56-cfp@cfp-radar
+DESCRIPTION:Website: https://www.umbracokalaset.se\nCFP: https://sessioniz
+ e.com/umbracokalaset-2026
+LOCATION:Stockholm\, Sweden
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/umbracokalaset-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Umbracokalaset
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+UID:a4d3dc7e3c56-event@cfp-radar
+DESCRIPTION:Website: https://www.umbracokalaset.se\nCFP: https://sessioniz
+ e.com/umbracokalaset-2026
+LOCATION:Stockholm\, Sweden
+TRANSP:OPAQUE
+URL:https://www.umbracokalaset.se
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mozilla Festival
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:e5521965ff1d-event@cfp-radar
+DESCRIPTION:Website: https://www.mozillafestival.org
+LOCATION:Barcelona\, Spain
+TRANSP:OPAQUE
+URL:https://www.mozillafestival.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Analytics Conference
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+UID:51dfc1499e9e-event@cfp-radar
+DESCRIPTION:Website: https://osacon.io
+LOCATION:San Francisco\, CA\, USA
+TRANSP:OPAQUE
+URL:https://osacon.io
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] S2N: Storage Server Network
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+UID:635e99691c7c-cfp@cfp-radar
+DESCRIPTION:Website: https://s2n.heise.de\nCFP: https://s2n.heise.de/cfp.p
+ hp
+LOCATION:Berlin\, Germany
+TRANSP:TRANSPARENT
+URL:https://s2n.heise.de/cfp.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2N: Storage Server Network
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261105
+UID:635e99691c7c-event@cfp-radar
+DESCRIPTION:Website: https://s2n.heise.de\nCFP: https://s2n.heise.de/cfp.p
+ hp
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://s2n.heise.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] CLC
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+UID:92d6261779ac-cfp@cfp-radar
+DESCRIPTION:Website: https://clc-conference.eu/index_en.php\nCFP: https://
+ clc-conference.eu/cfp_en.php\nTopics: devops
+LOCATION:Mannheim\, Germany
+TRANSP:TRANSPARENT
+URL:https://clc-conference.eu/cfp_en.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLC
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+UID:92d6261779ac-event@cfp-radar
+DESCRIPTION:Website: https://clc-conference.eu/index_en.php\nCFP: https://
+ clc-conference.eu/cfp_en.php\nTopics: devops
+LOCATION:Mannheim\, Germany
+TRANSP:OPAQUE
+URL:https://clc-conference.eu/index_en.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Agile Testing Days
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+UID:83f51827298b-cfp@cfp-radar
+DESCRIPTION:Website: https://agiletestingdays.com\nCFP: https://agiletesti
+ ngdays.com/call-for-papers
+LOCATION:Potsdam\, Germany
+TRANSP:TRANSPARENT
+URL:https://agiletestingdays.com/call-for-papers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Testing Days
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+UID:83f51827298b-event@cfp-radar
+DESCRIPTION:Website: https://agiletestingdays.com\nCFP: https://agiletesti
+ ngdays.com/call-for-papers
+LOCATION:Potsdam\, Germany
+TRANSP:OPAQUE
+URL:https://agiletestingdays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] ASF Community Over Code / ChurConf
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+UID:945e8256171d-cfp@cfp-radar
+DESCRIPTION:Website: https://au.churconf.com\nCFP: https://tinyurl.com/asf
+ churconfcfp
+LOCATION:Sidney\, Australia
+TRANSP:TRANSPARENT
+URL:https://tinyurl.com/asfchurconfcfp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASF Community Over Code / ChurConf
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:945e8256171d-event@cfp-radar
+DESCRIPTION:Website: https://au.churconf.com\nCFP: https://tinyurl.com/asf
+ churconfcfp
+LOCATION:Sidney\, Australia
+TRANSP:OPAQUE
+URL:https://au.churconf.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:droidCon India
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+UID:7fe13d9d5496-event@cfp-radar
+DESCRIPTION:Website: https://india.droidcon.com
+LOCATION:Bengaluru\, India
+TRANSP:OPAQUE
+URL:https://india.droidcon.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:API Conference Berlin
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+UID:77fe537e7aa0-event@cfp-radar
+DESCRIPTION:Website: https://apiconference.net/berlin\nTopics: devops
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://apiconference.net/berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOpsCon Munich
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+UID:f0af646d6a4a-event@cfp-radar
+DESCRIPTION:Website: https://devopscon.io/muenchen\nTopics: devops
+LOCATION:Munich\, Germany
+TRANSP:OPAQUE
+URL:https://devopscon.io/muenchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT Security Summit Munich
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+UID:f9508d7a7d37-event@cfp-radar
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+LOCATION:Munich\, Germany
+TRANSP:OPAQUE
+URL:https://it-security-summit.com/munich
+END:VEVENT
+END:VCALENDAR
