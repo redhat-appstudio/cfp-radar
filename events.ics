@@ -162,7 +162,8 @@ SUMMARY:World Conference on  Smart Systems : Big Data\, IoT\, Cybersecurit
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260920
 UID:c9a2f9db2ca9-event@cfp-radar
-DESCRIPTION:Website: https://www.smartsystems.thesciencequest.org
+DESCRIPTION:Website: https://www.smartsystems.thesciencequest.org\nTopics:
+  security
 LOCATION:Tokyo\, Japan
 TRANSP:OPAQUE
 URL:https://www.smartsystems.thesciencequest.org
@@ -633,6 +634,7 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
 DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich

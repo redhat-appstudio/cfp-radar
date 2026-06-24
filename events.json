@@ -14,7 +14,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-06-24T19:04:19.330207",
+    "last_updated": "2026-06-24T19:15:03.964372",
     "id": "d6a2acfefa25"
   },
   {
@@ -32,7 +32,7 @@
     "cfp_url": "https://forms.gle/pzQpippVee82GLuQ9",
     "description": "",
     "relevance_score": 0.6499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330215",
+    "last_updated": "2026-06-24T19:15:03.964380",
     "id": "4abaecc82e38"
   },
   {
@@ -50,7 +50,7 @@
     "cfp_url": "https://2026.berlinbuzzwords.de/call-for-papers",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330222",
+    "last_updated": "2026-06-24T19:15:03.964387",
     "id": "8050110c157a"
   },
   {
@@ -66,7 +66,7 @@
     "cfp_url": "https://forms.gle/gWReoDDjra4MCQMM8",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:20.119624",
+    "last_updated": "2026-06-24T19:15:04.648532",
     "id": "9d465ed85e35"
   },
   {
@@ -82,7 +82,7 @@
     "cfp_url": "https://ethconf.com/partner",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:20.119631",
+    "last_updated": "2026-06-24T19:15:04.648539",
     "id": "a52f9ec1279d"
   },
   {
@@ -98,7 +98,7 @@
     "cfp_url": "https://gitnation.com/events/web-engineering-summit-2026/cfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:19.827949",
+    "last_updated": "2026-06-24T19:15:04.376229",
     "id": "e6a39b367b4c"
   },
   {
@@ -116,7 +116,7 @@
     "cfp_url": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330230",
+    "last_updated": "2026-06-24T19:15:03.964394",
     "id": "053dff3d2dc0"
   },
   {
@@ -134,7 +134,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-06-24T19:04:19.330237",
+    "last_updated": "2026-06-24T19:15:03.964401",
     "id": "1b4ef435a318"
   },
   {
@@ -145,12 +145,14 @@
     "website": "https://it-security-summit.com/berlin",
     "event_type": "conference",
     "end_date": "2026-06-19",
-    "topics": [],
+    "topics": [
+      "security"
+    ],
     "cfp_deadline": null,
     "cfp_url": null,
     "description": "",
-    "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.661741",
+    "relevance_score": 0.44999999999999996,
+    "last_updated": "2026-06-24T19:15:04.225842",
     "id": "cd35aa211d64"
   },
   {
@@ -166,7 +168,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.661748",
+    "last_updated": "2026-06-24T19:15:04.225851",
     "id": "b37f03552435"
   },
   {
@@ -182,7 +184,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.119645",
+    "last_updated": "2026-06-24T19:15:04.648552",
     "id": "84aa2a2cdba1"
   },
   {
@@ -198,7 +200,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.971037",
+    "last_updated": "2026-06-24T19:15:04.541869",
     "id": "f22c21c6c2af"
   },
   {
@@ -214,7 +216,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119652",
+    "last_updated": "2026-06-24T19:15:04.648558",
     "id": "4483055f70e7"
   },
   {
@@ -230,7 +232,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119660",
+    "last_updated": "2026-06-24T19:15:04.648566",
     "id": "630d0cdf9012"
   },
   {
@@ -246,7 +248,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119666",
+    "last_updated": "2026-06-24T19:15:04.648572",
     "id": "cf57378cd9a5"
   },
   {
@@ -262,7 +264,7 @@
     "cfp_url": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:19.661755",
+    "last_updated": "2026-06-24T19:15:04.225860",
     "id": "c05f76e3f89c"
   },
   {
@@ -278,7 +280,7 @@
     "cfp_url": "https://2026.pgday.ch/call-for-papers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827955",
+    "last_updated": "2026-06-24T19:15:04.376236",
     "id": "31c7d7d0ba5c"
   },
   {
@@ -294,7 +296,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119672",
+    "last_updated": "2026-06-24T19:15:04.648578",
     "id": "97e6dd5ee3f2"
   },
   {
@@ -312,7 +314,7 @@
     "cfp_url": "https://cfp.asynconf.com",
     "description": "",
     "relevance_score": 0.6499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330246",
+    "last_updated": "2026-06-24T19:15:03.964408",
     "id": "e9d2431c2bb8"
   },
   {
@@ -328,7 +330,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.119686",
+    "last_updated": "2026-06-24T19:15:04.648591",
     "id": "b782f7b24b1a"
   },
   {
@@ -344,7 +346,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.971046",
+    "last_updated": "2026-06-24T19:15:04.541878",
     "id": "64fef63afcf2"
   },
   {
@@ -360,7 +362,7 @@
     "cfp_url": "https://sessionize.com/almalinux-day-los-angeles",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827962",
+    "last_updated": "2026-06-24T19:15:04.376246",
     "id": "04fd6ba1d1b1"
   },
   {
@@ -378,7 +380,7 @@
     "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-06-24T19:04:19.330255",
+    "last_updated": "2026-06-24T19:15:03.964417",
     "id": "64d5e83ed8c7"
   },
   {
@@ -394,7 +396,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119692",
+    "last_updated": "2026-06-24T19:15:04.648597",
     "id": "a093a2dc303a"
   },
   {
@@ -405,12 +407,14 @@
     "website": "https://www.smartsystems.thesciencequest.org",
     "event_type": "conference",
     "end_date": "2026-09-19",
-    "topics": [],
+    "topics": [
+      "security"
+    ],
     "cfp_deadline": null,
     "cfp_url": null,
     "description": "",
-    "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.661762",
+    "relevance_score": 0.44999999999999996,
+    "last_updated": "2026-06-24T19:15:04.225870",
     "id": "c9a2f9db2ca9"
   },
   {
@@ -426,7 +430,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.119699",
+    "last_updated": "2026-06-24T19:15:04.648604",
     "id": "a285a70dcafc"
   },
   {
@@ -444,7 +448,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330262",
+    "last_updated": "2026-06-24T19:15:03.964423",
     "id": "4e3cdde59a4d"
   },
   {
@@ -462,7 +466,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.44999999999999996,
-    "last_updated": "2026-06-24T19:04:19.330269",
+    "last_updated": "2026-06-24T19:15:03.964429",
     "id": "da830dbef92e"
   },
   {
@@ -478,7 +482,7 @@
     "cfp_url": "https://heise-devsec.de/code_of_conduct.php",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.661769",
+    "last_updated": "2026-06-24T19:15:04.225879",
     "id": "e8c4a471196d"
   },
   {
@@ -496,7 +500,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330276",
+    "last_updated": "2026-06-24T19:15:03.964436",
     "id": "8a811fbd141d"
   },
   {
@@ -514,7 +518,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330283",
+    "last_updated": "2026-06-24T19:15:03.964442",
     "id": "1dcde6eff3ab"
   },
   {
@@ -532,7 +536,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.6,
-    "last_updated": "2026-06-24T19:04:19.330289",
+    "last_updated": "2026-06-24T19:15:03.964448",
     "id": "69d8cffe0cf3"
   },
   {
@@ -550,7 +554,7 @@
     "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330296",
+    "last_updated": "2026-06-24T19:15:03.964455",
     "id": "dd9b37eaf9b9"
   },
   {
@@ -566,7 +570,7 @@
     "cfp_url": "https://opentechday.de/propose",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827969",
+    "last_updated": "2026-06-24T19:15:04.376255",
     "id": "1cb97d5b9315"
   },
   {
@@ -582,7 +586,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.971070",
+    "last_updated": "2026-06-24T19:15:04.541902",
     "id": "a7cde28af082"
   },
   {
@@ -598,7 +602,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.253153",
+    "last_updated": "2026-06-24T19:15:04.792464",
     "id": "0dd2456f37d6"
   },
   {
@@ -614,7 +618,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.971077",
+    "last_updated": "2026-06-24T19:15:04.541910",
     "id": "46e177edafc1"
   },
   {
@@ -630,7 +634,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827976",
+    "last_updated": "2026-06-24T19:15:04.376263",
     "id": "8c33bdba9ee5"
   },
   {
@@ -648,7 +652,7 @@
     "cfp_url": "https://sessionize.com/swampup-europe-2026",
     "description": "",
     "relevance_score": 0.6499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330303",
+    "last_updated": "2026-06-24T19:15:03.964461",
     "id": "eb60652d6413"
   },
   {
@@ -664,7 +668,7 @@
     "cfp_url": "https://sessionize.com/amtso-cyber-research-conference-2026",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.661789",
+    "last_updated": "2026-06-24T19:15:04.225906",
     "id": "b333503b0f54"
   },
   {
@@ -680,7 +684,7 @@
     "cfp_url": "https://sessionize.com/umbracokalaset-2026",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827982",
+    "last_updated": "2026-06-24T19:15:04.376272",
     "id": "a4d3dc7e3c56"
   },
   {
@@ -698,7 +702,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330310",
+    "last_updated": "2026-06-24T19:15:03.964467",
     "id": "b0e005cf3f3b"
   },
   {
@@ -714,7 +718,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.827989",
+    "last_updated": "2026-06-24T19:15:04.376281",
     "id": "e5521965ff1d"
   },
   {
@@ -730,7 +734,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.827995",
+    "last_updated": "2026-06-24T19:15:04.376289",
     "id": "51dfc1499e9e"
   },
   {
@@ -746,7 +750,7 @@
     "cfp_url": "https://s2n.heise.de/cfp.php",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.661803",
+    "last_updated": "2026-06-24T19:15:04.225922",
     "id": "635e99691c7c"
   },
   {
@@ -762,7 +766,7 @@
     "cfp_url": "https://automation.eurostarsoftwaretesting.com/call-for-speakers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.253162",
+    "last_updated": "2026-06-24T19:15:04.792474",
     "id": "630f067c61dc"
   },
   {
@@ -778,7 +782,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:20.119718",
+    "last_updated": "2026-06-24T19:15:04.648623",
     "id": "c9df3419a2ac"
   },
   {
@@ -796,7 +800,7 @@
     "cfp_url": "https://clc-conference.eu/cfp_en.php",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330317",
+    "last_updated": "2026-06-24T19:15:03.964473",
     "id": "92d6261779ac"
   },
   {
@@ -812,7 +816,7 @@
     "cfp_url": "https://tokyotestfest.com/en/cfp_2026/",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:20.253169",
+    "last_updated": "2026-06-24T19:15:04.792483",
     "id": "1511cedbd0a2"
   },
   {
@@ -828,7 +832,7 @@
     "cfp_url": "https://agiletestingdays.com/call-for-papers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.253176",
+    "last_updated": "2026-06-24T19:15:04.792491",
     "id": "83f51827298b"
   },
   {
@@ -844,7 +848,7 @@
     "cfp_url": "https://osmc.de/call-for-papers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.828001",
+    "last_updated": "2026-06-24T19:15:04.376298",
     "id": "15917e2001ff"
   },
   {
@@ -860,7 +864,7 @@
     "cfp_url": "https://tinyurl.com/asfchurconfcfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-06-24T19:04:19.828008",
+    "last_updated": "2026-06-24T19:15:04.376306",
     "id": "945e8256171d"
   },
   {
@@ -876,7 +880,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:20.119724",
+    "last_updated": "2026-06-24T19:15:04.648629",
     "id": "7fe13d9d5496"
   },
   {
@@ -894,7 +898,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330324",
+    "last_updated": "2026-06-24T19:15:03.964480",
     "id": "77fe537e7aa0"
   },
   {
@@ -912,7 +916,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-06-24T19:04:19.330330",
+    "last_updated": "2026-06-24T19:15:03.964486",
     "id": "f0af646d6a4a"
   },
   {
@@ -924,13 +928,14 @@
     "event_type": "conference",
     "end_date": "2026-12-04",
     "topics": [
-      "devops"
+      "devops",
+      "security"
     ],
     "cfp_deadline": null,
     "cfp_url": null,
     "description": "",
-    "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330337",
+    "relevance_score": 0.7,
+    "last_updated": "2026-06-24T19:15:03.964493",
     "id": "f9508d7a7d37"
   },
   {
@@ -946,7 +951,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-06-24T19:04:19.661815",
+    "last_updated": "2026-06-24T19:15:04.225938",
     "id": "a9f2dff9fe4b"
   },
   {
@@ -962,7 +967,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-06-24T19:04:19.971093",
+    "last_updated": "2026-06-24T19:15:04.541925",
     "id": "57483420ce3a"
   },
   {
@@ -980,7 +985,7 @@
     "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-06-24T19:04:19.330344",
+    "last_updated": "2026-06-24T19:15:03.964499",
     "id": "f58d484e1a4d"
   }
 ]
