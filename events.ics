@@ -543,8 +543,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
- ty\, devops
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
