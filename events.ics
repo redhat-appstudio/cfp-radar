@@ -511,8 +511,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
- \, security
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
+ ty\, devops
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -634,5 +634,37 @@ DESCRIPTION:Website: https://www.wpninjas-india.com\nCFP: https://sessioni
 LOCATION:Delhi\, India
 TRANSP:OPAQUE
 URL:https://www.wpninjas-india.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSS for All Conference
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:df3094edb41a-event@cfp-radar
+DESCRIPTION:Website: https://2026.fossforall.org
+LOCATION:Seoul\, South Korea
+TRANSP:OPAQUE
+URL:https://2026.fossforall.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] EuroSTAR Conference
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+UID:ffc7a43d7c96-cfp@cfp-radar
+DESCRIPTION:Website: https://conference.eurostarsoftwaretesting.com\nCFP: 
+ https://conference.eurostarsoftwaretesting.com/call-for-submissions
+LOCATION:Copenhagen\, Denmark
+TRANSP:TRANSPARENT
+URL:https://conference.eurostarsoftwaretesting.com/call-for-submissions
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EuroSTAR Conference
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270515
+UID:ffc7a43d7c96-event@cfp-radar
+DESCRIPTION:Website: https://conference.eurostarsoftwaretesting.com\nCFP: 
+ https://conference.eurostarsoftwaretesting.com/call-for-submissions
+LOCATION:Copenhagen\, Denmark
+TRANSP:OPAQUE
+URL:https://conference.eurostarsoftwaretesting.com
 END:VEVENT
 END:VCALENDAR
