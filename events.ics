@@ -511,8 +511,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
- ty\, devops
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -560,6 +560,50 @@ TRANSP:OPAQUE
 URL:https://www.it-tage.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CFP Deadline] bitcoin++ payments edition
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+UID:9aa0c14b4e6f-cfp@cfp-radar
+DESCRIPTION:Website: https://btcpp.dev/berlin26\nCFP: https://btcpp.dev/ta
+ lk/berlin26
+LOCATION:Berlin\, Germany
+TRANSP:TRANSPARENT
+URL:https://btcpp.dev/talk/berlin26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:bitcoin++ payments edition
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+UID:9aa0c14b4e6f-event@cfp-radar
+DESCRIPTION:Website: https://btcpp.dev/berlin26\nCFP: https://btcpp.dev/ta
+ lk/berlin26
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://btcpp.dev/berlin26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] X-Ops Conference Dubai
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+UID:9cace13b027a-cfp@cfp-radar
+DESCRIPTION:Website: https://xopsconference.com\nCFP: https://sessionize.c
+ om/x-ops-conference-2026\nTopics: devops
+LOCATION:Dubai\, UAE
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/x-ops-conference-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Ops Conference Dubai
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+UID:9cace13b027a-event@cfp-radar
+DESCRIPTION:Website: https://xopsconference.com\nCFP: https://sessionize.c
+ om/x-ops-conference-2026\nTopics: devops
+LOCATION:Dubai\, UAE
+TRANSP:OPAQUE
+URL:https://xopsconference.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TechEx Europe
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261021
@@ -568,6 +612,16 @@ DESCRIPTION:Website: https://techexevent.com/europe
 LOCATION:Amsterdam\, Netherlands
 TRANSP:OPAQUE
 URL:https://techexevent.com/europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JDD
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+UID:8a6c5d9a30b9-event@cfp-radar
+DESCRIPTION:Website: https://jdd.org.pl
+LOCATION:Kraków\, Poland
+TRANSP:OPAQUE
+URL:https://jdd.org.pl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:webinale Munich
@@ -602,6 +656,28 @@ TRANSP:OPAQUE
 URL:https://nullcon.net/event/nullcon-berlin-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CFP Deadline] bitcoin++ privacy edition
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+UID:68aea6fcab5d-cfp@cfp-radar
+DESCRIPTION:Website: https://btcpp.dev/seoul\nCFP: https://btcpp.dev/talk/
+ seoul
+LOCATION:Seoul\, South Korea
+TRANSP:TRANSPARENT
+URL:https://btcpp.dev/talk/seoul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:bitcoin++ privacy edition
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+UID:68aea6fcab5d-event@cfp-radar
+DESCRIPTION:Website: https://btcpp.dev/seoul\nCFP: https://btcpp.dev/talk/
+ seoul
+LOCATION:Seoul\, South Korea
+TRANSP:OPAQUE
+URL:https://btcpp.dev/seoul
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unhacked 360 Germany: FutureSec Summit
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261111
@@ -612,6 +688,28 @@ LOCATION:Berlin\, Germany
 TRANSP:OPAQUE
 URL:https://momentera.org/conference/unhacked-360-germany-futuresec-world-
  summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] X-Ops Conference Madrid
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+UID:60fa9916d0b5-cfp@cfp-radar
+DESCRIPTION:Website: https://xopsconference.com\nCFP: https://sessionize.c
+ om/x-ops-conference-2026\nTopics: devops
+LOCATION:Madrid\, Spain
+TRANSP:TRANSPARENT
+URL:https://sessionize.com/x-ops-conference-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X-Ops Conference Madrid
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+UID:60fa9916d0b5-event@cfp-radar
+DESCRIPTION:Website: https://xopsconference.com\nCFP: https://sessionize.c
+ om/x-ops-conference-2026\nTopics: devops
+LOCATION:Madrid\, Spain
+TRANSP:OPAQUE
+URL:https://xopsconference.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CFP Deadline] Workplace Ninjas India
@@ -646,6 +744,28 @@ TRANSP:OPAQUE
 URL:https://2026.fossforall.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CFP Deadline] STAREAST
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+UID:836c998b7ddd-cfp@cfp-radar
+DESCRIPTION:Website: https://stareast.techwell.com\nCFP: https://stareast.
+ techwell.com/speak-stareast
+LOCATION:Orlando\, FL\, USA
+TRANSP:TRANSPARENT
+URL:https://stareast.techwell.com/speak-stareast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAREAST
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270501
+UID:836c998b7ddd-event@cfp-radar
+DESCRIPTION:Website: https://stareast.techwell.com\nCFP: https://stareast.
+ techwell.com/speak-stareast
+LOCATION:Orlando\, FL\, USA
+TRANSP:OPAQUE
+URL:https://stareast.techwell.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CFP Deadline] EuroSTAR Conference
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
@@ -666,5 +786,27 @@ DESCRIPTION:Website: https://conference.eurostarsoftwaretesting.com\nCFP:
 LOCATION:Copenhagen\, Denmark
 TRANSP:OPAQUE
 URL:https://conference.eurostarsoftwaretesting.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CFP Deadline] Accelerate Tomorrow AI Summit
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+UID:67de3522a070-cfp@cfp-radar
+DESCRIPTION:Website: https://www.acceleratetomorrow.com\nCFP: https://www.
+ acceleratetomorrow.com/become-a-speaker#speakersform
+LOCATION:Berlin\, Germany
+TRANSP:TRANSPARENT
+URL:https://www.acceleratetomorrow.com/become-a-speaker#speakersform
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accelerate Tomorrow AI Summit
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270617
+UID:67de3522a070-event@cfp-radar
+DESCRIPTION:Website: https://www.acceleratetomorrow.com\nCFP: https://www.
+ acceleratetomorrow.com/become-a-speaker#speakersform
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://www.acceleratetomorrow.com
 END:VEVENT
 END:VCALENDAR
