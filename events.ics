@@ -511,8 +511,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
- \, security
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
+ ty\, devops
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -688,6 +688,16 @@ LOCATION:Berlin\, Germany
 TRANSP:OPAQUE
 URL:https://momentera.org/conference/unhacked-360-germany-futuresec-world-
  summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:API Conference Berlin
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+UID:96e659a20475-event@cfp-radar
+DESCRIPTION:Website: https://apiconference.net/berlin\nTopics: devops
+LOCATION:Berlin\, Germany
+TRANSP:OPAQUE
+URL:https://apiconference.net/berlin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CFP Deadline] X-Ops Conference Madrid
