@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:LDX3 New York
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260917
-UID:a093a2dc303a-event@cfp-radar
-DESCRIPTION:Website: https://leaddev.com/leaddev-new-york
-LOCATION:New York\, NY\, USA
-TRANSP:OPAQUE
-URL:https://leaddev.com/leaddev-new-york
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Conference on  Smart Systems : Big Data\, IoT\, Cybersecurit
  y\, and IT in Action
 DTSTART;VALUE=DATE:20260917
@@ -489,8 +479,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
- \, security
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
+ ty\, devops
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
