@@ -457,8 +457,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
- \, security
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
+ ty\, devops
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -558,6 +558,16 @@ DESCRIPTION:Website: https://techexevent.com/europe
 LOCATION:Amsterdam\, Netherlands
 TRANSP:OPAQUE
 URL:https://techexevent.com/europe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGconf.EU
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+UID:1dd6cdddf602-event@cfp-radar
+DESCRIPTION:Website: https://2026.pgconf.eu
+LOCATION:Valencia\, Spain
+TRANSP:OPAQUE
+URL:https://2026.pgconf.eu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JDD
