@@ -3,26 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:The Nordic APIs UnConference
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-UID:a7cde28af082-event@cfp-radar
-DESCRIPTION:Website: https://nordicapis.com/events/napis-unconference-2026
-LOCATION:Stockholm\, Sweden
-TRANSP:OPAQUE
-URL:https://nordicapis.com/events/napis-unconference-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software Architecture Summit
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-UID:0dd2456f37d6-event@cfp-radar
-DESCRIPTION:Website: https://software-architecture-summit.de/berlin
-LOCATION:Berlin\, Germany
-TRANSP:OPAQUE
-URL:https://software-architecture-summit.de/berlin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Platform Summit
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261015
@@ -340,8 +320,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
- \, security
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
+ ty\, devops
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
