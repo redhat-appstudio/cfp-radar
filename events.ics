@@ -300,8 +300,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
- ty\, devops
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -347,16 +347,6 @@ DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
 LOCATION:Frankfurt am Main\, Germany
 TRANSP:OPAQUE
 URL:https://www.it-tage.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TechEx Europe
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261021
-UID:5eff1e33c637-event@cfp-radar
-DESCRIPTION:Website: https://techexevent.com/europe
-LOCATION:Amsterdam\, Netherlands
-TRANSP:OPAQUE
-URL:https://techexevent.com/europe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGconf.EU
