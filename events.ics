@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon North America
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261030
-UID:b0e005cf3f3b-event@cfp-radar
-DESCRIPTION:Website: https://events.linuxfoundation.org/kubecon-cloudnativ
- econ-north-america-2026\nTopics: devops
-LOCATION:Los Angeles\, CA\, USA
-TRANSP:OPAQUE
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-americ
- a-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mozilla Festival
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261031
@@ -278,16 +266,6 @@ DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
 LOCATION:Frankfurt am Main\, Germany
 TRANSP:OPAQUE
 URL:https://www.it-tage.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:webinale Munich
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261031
-UID:a80a8ad46367-event@cfp-radar
-DESCRIPTION:Website: https://webinale.com/munich\nTopics: devops
-LOCATION:Munich\, Germany
-TRANSP:OPAQUE
-URL:https://webinale.com/munich
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CFP Deadline] Nullcon Berlin
