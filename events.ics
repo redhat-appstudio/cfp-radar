@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:Mozilla Festival
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:e5521965ff1d-event@cfp-radar
-DESCRIPTION:Website: https://www.mozillafestival.org
-LOCATION:Barcelona\, Spain
-TRANSP:OPAQUE
-URL:https://www.mozillafestival.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Source Analytics Conference
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
