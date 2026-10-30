@@ -595,6 +595,28 @@ TRANSP:OPAQUE
 URL:https://paristestconf.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CFP Deadline] SunSecCon
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+UID:45e07d2e16f7-cfp@cfp-radar
+DESCRIPTION:Website: https://www.sunseccon.org/2027\nCFP: https://www.suns
+ eccon.org/2027/cfp
+LOCATION:Pasadena\, CA\, USA
+TRANSP:TRANSPARENT
+URL:https://www.sunseccon.org/2027/cfp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SunSecCon
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270403
+UID:45e07d2e16f7-event@cfp-radar
+DESCRIPTION:Website: https://www.sunseccon.org/2027\nCFP: https://www.suns
+ eccon.org/2027/cfp
+LOCATION:Pasadena\, CA\, USA
+TRANSP:OPAQUE
+URL:https://www.sunseccon.org/2027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CFP Deadline] SCaLE
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
