@@ -155,8 +155,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
- ty\, devops
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -202,28 +202,6 @@ DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
 LOCATION:Frankfurt am Main\, Germany
 TRANSP:OPAQUE
 URL:https://www.it-tage.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CFP Deadline] bitcoin++ privacy edition
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-UID:68aea6fcab5d-cfp@cfp-radar
-DESCRIPTION:Website: https://btcpp.dev/seoul\nCFP: https://btcpp.dev/talk/
- seoul
-LOCATION:Seoul\, South Korea
-TRANSP:TRANSPARENT
-URL:https://btcpp.dev/talk/seoul
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:bitcoin++ privacy edition
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261107
-UID:68aea6fcab5d-event@cfp-radar
-DESCRIPTION:Website: https://btcpp.dev/seoul\nCFP: https://btcpp.dev/talk/
- seoul
-LOCATION:Seoul\, South Korea
-TRANSP:OPAQUE
-URL:https://btcpp.dev/seoul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unhacked 360 Germany: FutureSec Summit
