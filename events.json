@@ -734,7 +734,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.007215",
+    "last_updated": "2026-11-13T06:16:27.323398",
     "id": "51dfc1499e9e"
   },
   {
@@ -750,7 +750,7 @@
     "cfp_url": "https://s2n.heise.de/cfp.php",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.003177",
+    "last_updated": "2026-11-13T06:16:27.267145",
     "id": "635e99691c7c"
   },
   {
@@ -766,7 +766,7 @@
     "cfp_url": "https://automation.eurostarsoftwaretesting.com/call-for-speakers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.020550",
+    "last_updated": "2026-11-13T06:16:27.622788",
     "id": "630f067c61dc"
   },
   {
@@ -782,7 +782,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.015340",
+    "last_updated": "2026-11-13T06:16:27.515381",
     "id": "c9df3419a2ac"
   },
   {
@@ -800,7 +800,7 @@
     "cfp_url": "https://clc-conference.eu/cfp_en.php",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992660",
+    "last_updated": "2026-11-13T06:16:27.091397",
     "id": "92d6261779ac"
   },
   {
@@ -816,7 +816,7 @@
     "cfp_url": "https://tokyotestfest.com/en/cfp_2026/",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.020559",
+    "last_updated": "2026-11-13T06:16:27.622793",
     "id": "1511cedbd0a2"
   },
   {
@@ -832,7 +832,7 @@
     "cfp_url": "https://agiletestingdays.com/call-for-papers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.020568",
+    "last_updated": "2026-11-13T06:16:27.622797",
     "id": "83f51827298b"
   },
   {
@@ -848,7 +848,7 @@
     "cfp_url": "https://osmc.de/call-for-papers",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.007238",
+    "last_updated": "2026-11-13T06:16:27.323411",
     "id": "15917e2001ff"
   },
   {
@@ -864,7 +864,7 @@
     "cfp_url": "https://tinyurl.com/asfchurconfcfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.007246",
+    "last_updated": "2026-11-13T06:16:27.323416",
     "id": "945e8256171d"
   },
   {
@@ -880,7 +880,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.015346",
+    "last_updated": "2026-11-13T06:16:27.515385",
     "id": "7fe13d9d5496"
   },
   {
@@ -916,7 +916,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-11-12T06:17:12.992682",
+    "last_updated": "2026-11-13T06:16:27.091408",
     "id": "f0af646d6a4a"
   },
   {
@@ -928,14 +928,14 @@
     "event_type": "conference",
     "end_date": "2026-12-04",
     "topics": [
-      "devops",
-      "security"
+      "security",
+      "devops"
     ],
     "cfp_deadline": null,
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-11-12T06:17:12.992689",
+    "last_updated": "2026-11-13T06:16:27.091412",
     "id": "f9508d7a7d37"
   },
   {
@@ -951,7 +951,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.003218",
+    "last_updated": "2026-11-13T06:16:27.267169",
     "id": "a9f2dff9fe4b"
   },
   {
@@ -967,7 +967,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.011184",
+    "last_updated": "2026-11-13T06:16:27.426156",
     "id": "57483420ce3a"
   },
   {
@@ -985,7 +985,7 @@
     "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992703",
+    "last_updated": "2026-11-13T06:16:27.091421",
     "id": "f58d484e1a4d"
   },
   {
@@ -1003,7 +1003,7 @@
     "cfp_url": "https://nullcon.net/event/nullcon-berlin-2026/cfp",
     "description": "",
     "relevance_score": 0.6499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992653",
+    "last_updated": "2026-11-13T06:16:27.091393",
     "id": "dc4eb3152157"
   },
   {
@@ -1019,7 +1019,7 @@
     "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.003164",
+    "last_updated": "2026-11-13T06:16:27.267124",
     "id": "bd59e8adea5a"
   },
   {
@@ -1035,7 +1035,7 @@
     "cfp_url": "https://btcpp.dev/talk/seoul",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.007222",
+    "last_updated": "2026-11-13T06:16:27.323402",
     "id": "68aea6fcab5d"
   },
   {
@@ -1051,7 +1051,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.003185",
+    "last_updated": "2026-11-13T06:16:27.267150",
     "id": "60363004371c"
   },
   {
@@ -1067,7 +1067,7 @@
     "cfp_url": "https://sessionize.com/gerrit-user-summit-2026",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.007229",
+    "last_updated": "2026-11-13T06:16:27.323406",
     "id": "7250aa8ba911"
   },
   {
@@ -1083,7 +1083,7 @@
     "cfp_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.003191",
+    "last_updated": "2026-11-13T06:16:27.267153",
     "id": "2caf97bf507f"
   },
   {
@@ -1101,7 +1101,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992668",
+    "last_updated": "2026-11-13T06:16:27.091401",
     "id": "96e659a20475"
   },
   {
@@ -1117,7 +1117,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.007253",
+    "last_updated": "2026-11-13T06:16:27.323421",
     "id": "1ce4137f2b39"
   },
   {
@@ -1135,7 +1135,7 @@
     "cfp_url": "https://sessionize.com/x-ops-conference-2026",
     "description": "",
     "relevance_score": 0.6499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992675",
+    "last_updated": "2026-11-13T06:16:27.091405",
     "id": "60fa9916d0b5"
   },
   {
@@ -1151,7 +1151,7 @@
     "cfp_url": "https://sessionize.com/workplace-ninjas-india-2026",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.003212",
+    "last_updated": "2026-11-13T06:16:27.267165",
     "id": "6c147d2b1aeb"
   },
   {
@@ -1167,7 +1167,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.007275",
+    "last_updated": "2026-11-13T06:16:27.323425",
     "id": "df3094edb41a"
   },
   {
@@ -1185,7 +1185,7 @@
     "cfp_url": "https://builditsummit.com/call-for-speakers",
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.992696",
+    "last_updated": "2026-11-13T06:16:27.091416",
     "id": "b1ed3d055793"
   },
   {
@@ -1201,7 +1201,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.007290",
+    "last_updated": "2026-11-13T06:16:27.323434",
     "id": "9271fd3568bc"
   },
   {
@@ -1217,7 +1217,7 @@
     "cfp_url": "https://cfp.fun-ocaml.com/fun-ocaml-2027-bengaluru/cfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.009462",
+    "last_updated": "2026-11-13T06:16:27.269159",
     "id": "21e4cbe55832"
   },
   {
@@ -1233,7 +1233,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.3,
-    "last_updated": "2026-11-12T06:17:13.005198",
+    "last_updated": "2026-11-13T06:16:27.195079",
     "id": "ff3d77a97583"
   },
   {
@@ -1251,7 +1251,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.993787",
+    "last_updated": "2026-11-13T06:16:27.058246",
     "id": "d1ca8bc41599"
   },
   {
@@ -1267,7 +1267,7 @@
     "cfp_url": "https://event.drupalmountaincamp.ch/mountain-camp-2027",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.009482",
+    "last_updated": "2026-11-13T06:16:27.269171",
     "id": "9d01e2ce8447"
   },
   {
@@ -1283,7 +1283,7 @@
     "cfp_url": "https://www.testautomationdays.com/call-for-cases",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.064525",
+    "last_updated": "2026-11-13T06:16:27.452579",
     "id": "078aa2a6764d"
   },
   {
@@ -1299,7 +1299,7 @@
     "cfp_url": "https://sessionize.com/paristestconf-2027",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.064562",
+    "last_updated": "2026-11-13T06:16:27.452611",
     "id": "1b0d388b8cd9"
   },
   {
@@ -1315,7 +1315,7 @@
     "cfp_url": "https://www.sunseccon.org/2027/cfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.005223",
+    "last_updated": "2026-11-13T06:16:27.195110",
     "id": "45e07d2e16f7"
   },
   {
@@ -1331,7 +1331,7 @@
     "cfp_url": "https://www.socallinuxexpo.org/scale/24x/cfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.009492",
+    "last_updated": "2026-11-13T06:16:27.269176",
     "id": "06f684f171df"
   },
   {
@@ -1347,7 +1347,7 @@
     "cfp_url": "https://cfp.bsidesprg.cz/2027/cfp",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.005232",
+    "last_updated": "2026-11-13T06:16:27.195116",
     "id": "71865c40ff1a"
   },
   {
@@ -1363,7 +1363,7 @@
     "cfp_url": "https://stareast.techwell.com/speak-stareast",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.064575",
+    "last_updated": "2026-11-13T06:16:27.452617",
     "id": "836c998b7ddd"
   },
   {
@@ -1379,7 +1379,7 @@
     "cfp_url": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "description": "",
     "relevance_score": 0.5,
-    "last_updated": "2026-11-12T06:17:13.064586",
+    "last_updated": "2026-11-13T06:16:27.452623",
     "id": "ffc7a43d7c96"
   },
   {
@@ -1397,7 +1397,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-11-12T06:17:12.993807",
+    "last_updated": "2026-11-13T06:16:27.058300",
     "id": "8b353539ed8f"
   },
   {
@@ -1415,7 +1415,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.44999999999999996,
-    "last_updated": "2026-11-12T06:17:13.005242",
+    "last_updated": "2026-11-13T06:16:27.195124",
     "id": "5b75f4dbb0f8"
   },
   {
@@ -1433,7 +1433,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.993820",
+    "last_updated": "2026-11-13T06:16:27.058314",
     "id": "0c23d200670b"
   },
   {
@@ -1451,7 +1451,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.7,
-    "last_updated": "2026-11-12T06:17:12.993828",
+    "last_updated": "2026-11-13T06:16:27.058321",
     "id": "e382c306d5b5"
   },
   {
@@ -1469,7 +1469,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:13.005251",
+    "last_updated": "2026-11-13T06:16:27.195144",
     "id": "74535e8436aa"
   },
   {
@@ -1485,7 +1485,7 @@
     "cfp_url": "https://www.acceleratetomorrow.com/become-a-speaker#speakersform",
     "description": "",
     "relevance_score": 0.4,
-    "last_updated": "2026-11-12T06:17:13.013210",
+    "last_updated": "2026-11-13T06:16:27.309286",
     "id": "67de3522a070"
   },
   {
@@ -1503,7 +1503,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:12.993835",
+    "last_updated": "2026-11-13T06:16:27.058326",
     "id": "588f2c55d3e4"
   },
   {
@@ -1521,7 +1521,7 @@
     "cfp_url": null,
     "description": "",
     "relevance_score": 0.5499999999999999,
-    "last_updated": "2026-11-12T06:17:13.005289",
+    "last_updated": "2026-11-13T06:16:27.195148",
     "id": "04bd66a02b65"
   }
 ]
