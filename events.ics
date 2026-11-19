@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:[CFP Deadline] ASF Community Over Code / ChurConf
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-UID:945e8256171d-cfp@cfp-radar
-DESCRIPTION:Website: https://au.churconf.com\nCFP: https://tinyurl.com/asf
- churconfcfp
-LOCATION:Sidney\, Australia
-TRANSP:TRANSPARENT
-URL:https://tinyurl.com/asfchurconfcfp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASF Community Over Code / ChurConf
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:945e8256171d-event@cfp-radar
-DESCRIPTION:Website: https://au.churconf.com\nCFP: https://tinyurl.com/asf
- churconfcfp
-LOCATION:Sidney\, Australia
-TRANSP:OPAQUE
-URL:https://au.churconf.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:droidCon India
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -59,8 +37,8 @@ SUMMARY:IT Security Summit Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 UID:f9508d7a7d37-event@cfp-radar
-DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: securi
- ty\, devops
+DESCRIPTION:Website: https://it-security-summit.com/munich\nTopics: devops
+ \, security
 LOCATION:Munich\, Germany
 TRANSP:OPAQUE
 URL:https://it-security-summit.com/munich
@@ -106,17 +84,6 @@ DESCRIPTION:Website: https://www.it-tage.org\nCFP: https://www.ittage.info
 LOCATION:Frankfurt am Main\, Germany
 TRANSP:OPAQUE
 URL:https://www.it-tage.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Over Code Sydney
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:1ce4137f2b39-event@cfp-radar
-DESCRIPTION:Website: https://communityovercode.apache.org/events/sydney-20
- 26
-LOCATION:Sydney\, Australia
-TRANSP:OPAQUE
-URL:https://communityovercode.apache.org/events/sydney-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CFP Deadline] X-Ops Conference Madrid
