@@ -3,16 +3,6 @@ VERSION:2.0
 PRODID:-//CFP Radar//cfp-radar//EN
 X-WR-CALNAME:CFP Radar
 BEGIN:VEVENT
-SUMMARY:API Conference Berlin
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261128
-UID:77fe537e7aa0-event@cfp-radar
-DESCRIPTION:Website: https://apiconference.net/berlin\nTopics: devops
-LOCATION:Berlin\, Germany
-TRANSP:OPAQUE
-URL:https://apiconference.net/berlin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DevOpsCon Munich
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
